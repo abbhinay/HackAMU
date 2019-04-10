@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Alumnies</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alumnies</string>
+    <string name="nav_header_subtitle">Created By: Iron-coders</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="signin">SignIn</string>
+    <string name="title_activity_sign_up">sign_up</string>
+    <string-array name="branch_array">
+        <item>Electronics</item>
+        <item>Computer Science</item>
+        <item>Mechanical</item>
+        <item>Electrical</item>
+        <item>Civil</item>
+        <item>Petroleum</item>
+        <item>Chemical</item>
+    </string-array>
+</resources>

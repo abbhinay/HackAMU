@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "621218635681",
+    "firebase_url": "https://alumnies-b685c.firebaseio.com",
+    "project_id": "alumnies-b685c",
+    "storage_bucket": "alumnies-b685c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621218635681:android:3b5ff1b37bf1956d",
+        "android_client_info": {
+          "package_name": "com.abhinay.alumnies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg59tgpR81HNQLfQ7kSxaPRIs-BTnNlrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621218635681-fvtvehhicc65i7irlnqkh98j0d96i1t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
